@@ -1,0 +1,2 @@
+D:\vs projection\calculator\x64\Debug\calculator.exe
+D:\vs projection\calculator\x64\Debug\calculator.pdb
